@@ -1,0 +1,10 @@
+.users {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    transform: translate(250px, 150px);
+}
+.table {
+    background-color: gray;
+}
