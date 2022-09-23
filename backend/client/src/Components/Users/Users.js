@@ -1,7 +1,5 @@
-// import axios from "axios";
 import React, { useState, useEffect } from "react";
 import "./Users.css";
-// import api from "../../Api/api";
 
 export default function Users() {
   const [users, setUsers] = useState([]);
